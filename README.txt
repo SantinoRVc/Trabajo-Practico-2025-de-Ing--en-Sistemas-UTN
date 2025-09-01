@@ -1,0 +1,1 @@
+En este repositorio se estaran cargando las versiones betas (TP1 y TP2) del Trabajo Practico del año 2025 de AyED de Ing. en Sistemas de la UTN.
